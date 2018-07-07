@@ -17,14 +17,14 @@ let magica_personagem_1 = $('#magica_personagem_1');
  Aqui foram definidos os valores iniciais para os atributos do seu personagem.
  Altere os dados do pesonagem modificando os valores das variáveis abaixo!
 */
-forca_personagem_1.css('width', '20%');
+forca_personagem_1.css('width', '80%');
 carisma_personagem_1.css('width', '20%');
 sabedoria_personagem_1.css('width', '40%');
-velocidade_personagem_1.css('width', '40%');
-regeneracao_personagem_1.css('width', '50%');
-magica_personagem_1.css('width', '90%');
+velocidade_personagem_1.css('width', '70%');
+regeneracao_personagem_1.css('width', '20%');
+magica_personagem_1.css('width', '10%');
 
-tipo_personagem1_1.html('Elfo');
-tipo_personagem1_2.html('Venenoso');
-tipo_personagem1_3.html('Fantasma');
-tipo_personagem1_4.html('Sombrio');
+tipo_personagem1_1.html('Arqueiro');
+tipo_personagem1_2.html('Agil');
+tipo_personagem1_3.html('Humano');
+tipo_personagem1_4.html('Luz');
