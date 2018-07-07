@@ -31,14 +31,23 @@ let magica_personagem_2 = $('#magica_personagem_2');
  Aqui foram definidos os valores iniciais para os atributos do personagem secundário.
  Altere os dados do pesonagem modificando os valores das variáveis abaixo!
 */
-tipo_personagem2_1.html('Elfo');
-tipo_personagem2_2.html('Venenoso');
-tipo_personagem2_3.html('Fantasma');
-tipo_personagem2_4.html('Sombrio');
+tipo_personagem2_1.html('Moglin');
+tipo_personagem2_2.html('Mago');
+tipo_personagem2_3.html('Dano e cura');
+tipo_personagem2_4.html('Diversos elementos');
 
+<<<<<<< HEAD
 forca_personagem_2.css('width', '80%');
 carisma_personagem_2.css('width', '35%');
 sabedoria_personagem_2.css('width', '39%');
 velocidade_personagem_2.css('width', '60%');
 regeneracao_personagem_2.css('width', '70%');
 magica_personagem_2.css('width', '10%');
+=======
+forca_personagem_2.css('width', '10%');
+carisma_personagem_2.css('width', '60%');
+sabedoria_personagem_2.css('width', '90%');
+velocidade_personagem_2.css('width', '20%');
+regeneracao_personagem_2.css('width', '10%');
+magica_personagem_2.css('width', '100%');
+>>>>>>> 36d89f222ef98f9372e3a01341e31b4dd3698807
